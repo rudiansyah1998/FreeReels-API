@@ -1,0 +1,38 @@
+{
+  "name": "@cutad/freereels-api",
+  "version": "1.0.0",
+  "description": "CUTAD FreeReels API — Short movie gratis dengan subtitle",
+  "type": "module",
+  "main": "src-js/client.mjs",
+  "exports": {
+    ".": "./src-js/client.mjs"
+  },
+  "scripts": {
+    "example": "node examples/javascript.mjs"
+  },
+  "keywords": [
+    "cutad",
+    "freereels",
+    "streaming",
+    "api",
+    "sdk",
+    "video",
+    "hls",
+    "m3u8",
+    "subtitle"
+  ],
+  "homepage": "https://www.cutad.web.id/docs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rudiansyah1998/freereels-api"
+  },
+  "bugs": {
+    "url": "https://github.com/rudiansyah1998/freereels-api/issues",
+    "email": "akunmyid@gmail.com"
+  },
+  "author": "CUTADX <akunmyid@gmail.com> (https://www.cutad.web.id)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
